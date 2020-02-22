@@ -1,8 +1,17 @@
 @import "bootstrap";
 
+h1 {
+  color: #125688;
+  font-family: 'Frijole', ;
+}
+  
+h3, h4 {
+  font-family: 'Frijole', ;
+}
 
 body {
-  background-color: rgba(224, 222, 222, 0.74);
+  background-image: image_url('crossline-dots.png');
+  //background-color: rgba(224, 222, 222, 0.74);
   font-family: 'Josefin Sans', sans-serif;
 }
 
